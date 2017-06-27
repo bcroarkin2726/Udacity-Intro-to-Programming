@@ -1,0 +1,39 @@
+/* This is a CSS comment. Notice that CSS comments are
+enclosed by different characters than HTML comments. */
+body {
+  background-color: #EEE;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 8
+}
+
+#container {
+  background-color: white;
+  font-size: 3
+}
+
+#header{
+  background-color: blue; /*may want to look up better color*/
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#nav ul {
+  list-style-type: none;
+  padding: 0
+}
+
+#footer{
+  clear: both;
+  padding: 10px;
+  background-color: grey;
+  color: white;
+  text-align: right;
+}
+/* CSS allows you to give your page style (colors, shapes, fonts, etc.)
+You can apply CSS elements to entire HTML classes. Review Lesson 1.3
+if you need a refresher about how to do this. */
